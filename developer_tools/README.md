@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=9FECEE&text=WEB%20DEV%20%20TOOLS&textBg=false&descAlign=50&desc=Understanding%20the%20concept%20of%20Developer%20tools&descSize=15&descAlignY=66)
 
-  <h3><span>Learning Objectives</span></h3>
+  <h3><span>Learning Objectives</span><b></h3>
   
   * What Developer Tools in your browser are?
   * How to open the Developer Tools on Chrome, Firefox, Safari, and Edge.
