@@ -39,3 +39,19 @@
 <h3>Blocking Requests</h3>
 
   * <p>Learned how to use the Network tab in developer tools to block specific requests, allowing you to test and debug webpages with specific resources disabled.</p>
+
+  <h3>Optimizing JavaScript and CSS</h3>
+
+  * <p>Learned how to use the Coverage tab in developer tools to view the amount of JavaScript and CSS used on a webpage, helping you optimize and reduce the size of your code.</p>
+
+<h3>Troubleshooting 404 Issues</h3>
+
+  * <p>Learned how to use the Network tab in developer tools to identify 404 errors, which indicate missing resources or broken links, and troubleshoot them.</p>
+
+<h3>Manipulating Elements on a Webpage</h3>
+
+  * <p>Learned how to use the Elements tab in developer tools to inspect, select, and manipulate HTML elements, enabling you to move elements on a webpage for testing and debugging purposes.</p>
+
+<h2 align="center">Author<b></h2>
+
+  * Jordan Arguelles
