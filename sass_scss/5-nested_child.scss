@@ -1,0 +1,7 @@
+/* Using nested declarations to assgin text color to any elements of a class that are the first child of the body */
+body {
+  color: #3D3D3D;
+  .red:first-child {
+    color: #FF0000;
+  }
+}
