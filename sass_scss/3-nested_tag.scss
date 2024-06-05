@@ -1,0 +1,9 @@
+/* Assigning margin to all p tags inside body tags */
+
+body {
+  margin: 0;
+  padding: 0;
+  p {
+    margin: 10px;
+  }
+}
