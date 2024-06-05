@@ -1,0 +1,8 @@
+/* assigning a text color to tag button and different text color when user hovers over button */
+
+button {
+  color: #FF0000;
+  &:hover {
+    color: #00FF00;
+  }
+}
