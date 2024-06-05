@@ -1,0 +1,12 @@
+/* body to font size 14px, h1 in body to font size 16px, h1 of .smaller in body to font size 12px */
+body {
+  font-size: 14px;
+
+  & h1 {
+    font-size: 16px;
+  }
+
+  & h1.smaller {
+    font-size: 12px;
+  }
+}
