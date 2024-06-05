@@ -1,0 +1,12 @@
+/* using mixins */
+@mixin fixed-margins($left-right-margin) {
+  margin-right: $left-right-margin;
+  margin-left: $left-right-margin;
+}
+body {
+  @include fixed-margins(10px);
+}
+
+div {
+  @include fixed-margins(15px);
+}
