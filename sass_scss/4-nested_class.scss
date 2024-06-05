@@ -1,10 +1,7 @@
 /* Assigning different text colors to to different elements */
-$1-text-color: #3D3D3D;
-$2-text-color: #FF0000;
-
 body {
-  text-color: $1-text-color;
+  text-color: #3D3D3D;
   .red {
-    text-color: $2-text-color;
+    text-color: #FF0000;
   }
 }
