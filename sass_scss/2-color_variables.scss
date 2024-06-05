@@ -1,0 +1,16 @@
+/* Assinging a text color to the HTML tags body and p and also adding a background color to tags body and h2 */
+$text-color: #3D3D3D;
+$background-color: #6D6D6D;
+
+body {
+  color: $text-color;
+  background-color: $background-color;
+}
+
+p {
+  color: $text-color;
+}
+
+h2 {
+  background-color: $background-color;
+}
