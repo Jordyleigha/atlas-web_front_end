@@ -180,7 +180,7 @@
   /* Grid
       ============================= */
   
-  .row {
+  ul.row {
     display: flex;
     margin: -1rem;
     padding: 0;
