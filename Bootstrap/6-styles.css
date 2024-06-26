@@ -3,9 +3,7 @@
     border-color: #E0003C;
 }
 
-.btn-primary:focus,
-.btn-primary:hover,
-.btn-primary:active {
+.btn-primary:focus, .btn-primary:hover, .btn-primary:active {
     background-color: #BC1340;
 }
 
