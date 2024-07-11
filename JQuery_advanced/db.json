@@ -1,0 +1,24 @@
+{
+    "posts": [
+      {
+        "id": "b23a",
+        "author": "Jordan A",
+        "title": "cat"
+      },
+      {
+        "id": "c081",
+        "author": "chanel",
+        "title": "frog"
+      }
+    ],
+    "comments": [
+      {
+        "id": "1",
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
