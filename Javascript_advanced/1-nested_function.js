@@ -6,11 +6,11 @@ function outer() {
     let course = 'Holberton';
 
     function inner(){
-        alert('${globalVariable} ${course}');
+        alert(globalVariable + " " + course);
         let exclamation = '!';
 
         function inception(){
-            alert('${globalVariable} ${course}${exclamation}')
+            alert(globalVariable + " " + course + " " + exclamation)
         }
         inception();
     }
